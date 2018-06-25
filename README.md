@@ -165,6 +165,7 @@ Gauge : [Object]
 ```
 <h4>II]  chartStyle - [Optional] - customizable style for chart.</h4>
 <h4>Properties:</h4>	 
+
 ```
 	1.  chartWidth - [Optional] - width for chart. Default value- 450.
 
@@ -203,23 +204,26 @@ Gauge : [Object]
 	18. legendTitleColor- [Optional] - Applicable to 'MultiLine' chart only. color for legend title. Default value - '#000'.
 ```
 <h4>Specific to Gauge Chart:</h4>
+
 ```
-    19. gaugeBgColor : [Optional] - Background color for gauge. Default value - '#fff'.
+	19. gaugeBgColor : [Optional] - Background color for gauge. Default value - '#fff'.
 
-    20. gaugeColor : [Optional] - Color for gauge curve. Default value - '#000'.
+    	20. gaugeColor : [Optional] - Color for gauge curve. Default value - '#000'.
 
-    21. gaugeTitle : [Optional] - Title for gauge chart. Default value - ''.
+    	21. gaugeTitle : [Optional] - Title for gauge chart. Default value - ''.
 
-    22. gaugeTitleColor : [Optional] - Color title text. Default value - '#000'.
+    	22. gaugeTitleColor : [Optional] - Color title text. Default value - '#000'.
 
-    23. gaugeTitleFontSize : [Optional] - Font size for title text. Default value - '12px'.
+    	23. gaugeTitleFontSize : [Optional] - Font size for title text. Default value - '12px'.
 
-    24. gaugeTitleMargin : [Optional] - Margin(left-margin) for title . Default value - 30.
+    	24. gaugeTitleMargin : [Optional] - Margin(left-margin) for title . Default value - 30.
 
-    25. gaugeWidth : [Optional] - Width for gauge curve. Default value - 30.
+    	25. gaugeWidth : [Optional] - Width for gauge curve. Default value - 30.
 ```
+
 <h4>III]   animation - [Optional] - customizable animation for chart.</h4>
 <h4>Properties:</h4>
+
 ```
 	1. highLight - [Optional] - Applicable to 'Bar' chart only. To highlight chart on mouse over. Default value- false. Possible values- true/false.
 
@@ -229,6 +233,7 @@ Gauge : [Object]
 	   Default value - false. Possible values- true/false.
 ```
 <h3>Methods:</h3>
+
 ```
 	1. render()
 
