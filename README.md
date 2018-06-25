@@ -19,13 +19,13 @@ NiceChart is based on SVG.
 
 # How to use NiceChart in web page ? It's easy..
 
-Include ```nicechart.master.1.1.js``` file in your page.<br />
-Add SVG tag in HTML page for Chart <br />
+1. Include ```nicechart.master.1.1.js``` file in your page.<br />
+2. Add SVG tag in HTML page for Chart <br />
 ```
 <svg id="myChart">
 </svg>
 ```
-Create instance of NiceChart and pass chart type, DOM Id & Input data as shown below:
+3. Create instance of NiceChart and pass chart type, DOM Id & Input data as shown below:
 ```
 var Data = ["Jan,2000", "Feb,1100" ,"Mar,1500", "Apr,1700" ,"May,2200", "Jun,2300",
 "July,1500" ,"Aug,1950" ,"Sep,1970" ,"Oct,2500" ,"Nov,1860" ,"Dec,1920"];
