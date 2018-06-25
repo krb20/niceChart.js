@@ -134,6 +134,7 @@ Gauge : [Object]
 <h3>Configuration Object/Properties:</h3>
 <h4>I] axisStyle - [Optional] - customizable style for chart axis.</h4>
 <h4>Properties:</h4>
+
 ```
 	1. axisColor - [Optional] - color of axis. Default value- '#D8D8D8'. e.g.- 'green', '#fff000'.
 
@@ -183,7 +184,7 @@ Gauge : [Object]
 
 	9.  toolTipSuffix - [Optional] - to configure tooltip suffix. Default value - ''.
 
-	10. circleRadius - [Optional] - Applicable to 'Line' chart only. To configure radius of circle for Line chart. Default value - 3.
+	10. circleRadius - [Optional] - Applicable to 'Line' chart only. To configure radius of circle for Line chart. Default value -3.
 
 	11. chartBgColor - [Optional] - background color for chart. Default value - '#fff'.
 
