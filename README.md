@@ -4,7 +4,8 @@ NiceChart currently supports below types of charts:<br />
 1. Line<br /> 
 2. Bar<br />
 3. MultiLine<br />
-4. TrendLine and Gauge.<br />
+4. TrendLine <br />
+5. Gauge. <br />
 
 NiceChart is based on SVG.
 
