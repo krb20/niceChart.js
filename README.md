@@ -36,6 +36,10 @@ var chart = new NiceChart('Bar', {
     input : Data
 }).render();
 ```
+# Screenshot of NiceChart Examples
+
+![Alt text](/niceChart.jpg?raw=true "Optional Title")
+
 # Plugins
 If you are not going to use all charts in your application OR you have memory limitation then you can include only,
 ``` nicechart.1.1.js ``` in your html page. This will supports only Line ans Bar Charts.<br />
