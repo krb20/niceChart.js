@@ -1,6 +1,6 @@
 # NiceChart.js
 NiceChart.js is a charting library written in pure JavaScript, offering an easy way of adding interactive charts to your web application.<br />
-NiceChart currently supports below types of charts:<br />
+NiceChart.js currently supports below types of charts:<br />
 1. Line<br /> 
 2. Bar<br />
 3. MultiLine<br />
@@ -9,7 +9,7 @@ NiceChart currently supports below types of charts:<br />
 
 NiceChart is based on SVG.
 
-# advantages of using NiceChart.js
+# Advantages of using NiceChart.js
 1. Reusable <br />
 2. Scalable <br />
 3. Provides easy configuration options to customize charts <br /> 
@@ -36,9 +36,14 @@ var chart = new NiceChart('Bar', {
     input : Data
 }).render();
 ```
+# Plugins
+If you are not going to use all charts in your application OR you have memory limitation then you can include only,
+``` nicechart.1.1.js ``` in your html page. This will supports only Line ans Bar Charts.<br />
+
+And, if required you can include plugins ```gauge.plugin.nicechart.1.1.js, multiline.plugin.nicechart.1.1.js, trendline.plugin.nicechart.1.1.js ``` in your html file based on your requirement.
 
 <h1 class="center-align">NiceChart Documentation</h1>
-<h4 class="center-align">Version 1.0</h4>
+<h4 class="center-align">Version 1.1</h4>
 <hr class="hr-dash" />
 <h3>Configurations Options for charts:</h3>
 <h4>Example:</h4>
