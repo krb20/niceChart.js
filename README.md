@@ -41,10 +41,12 @@ var chart = new NiceChart('Bar', {
 ![Alt text](/niceChart.jpg?raw=true "Optional Title")
 
 # Plugins
-If you are not going to use all charts in your application OR you have memory limitation then you can include only,
-``` nicechart.1.1.js ``` in your html page. This will supports only Line ans Bar Charts.<br />
+If you like to use only specific chart in your application, you can use plugins availbale on top of base library: 
 
-And, if required you can include plugins ```gauge.plugin.nicechart.1.1.js, multiline.plugin.nicechart.1.1.js, trendline.plugin.nicechart.1.1.js ``` in your html file based on your requirement.
+Add ``` nicechart.1.1.js [Base library]``` in your html page - It supports Line ans Bar Charts.<br />
+
+You can can include plugins ```gauge.plugin.nicechart.1.1.js, multiline.plugin.nicechart.1.1.js, trendline.plugin.nicechart.1.1.js ``` in your html file based on your requirement.<br />
+Note: Plugins can be useful if you have memory/size contarins, and dont want to support all charts.
 
 <h1 class="center-align">NiceChart Documentation</h1>
 <h4 class="center-align">Version 1.1</h4>
