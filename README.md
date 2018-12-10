@@ -45,8 +45,8 @@ If you like to use only specific chart in your application, you can use plugins 
 
 Add ``` nicechart.1.1.js [Base library]``` in your html page - It supports Line ans Bar Charts.<br />
 
-You can can include plugins ```gauge.plugin.nicechart.1.1.js, multiline.plugin.nicechart.1.1.js, trendline.plugin.nicechart.1.1.js ``` in your html file based on your requirement.<br />
-Note: Plugins can be useful if you have memory/size contarins, and dont want to support all charts.
+You can can include plugins ```gauge.plugin.nicechart.1.1.js, multiline.plugin.nicechart.1.1.js, trendline.plugin.nicechart.1.1.js ``` in your html file based on your requirement.<br /><br />
+Note: Plugins can be useful if you have memory/size contarins, and have no requirement of using all charts.
 
 <h1 class="center-align">NiceChart Documentation</h1>
 <h4 class="center-align">Version 1.1</h4>
